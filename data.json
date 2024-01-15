@@ -1,0 +1,53 @@
+[ {
+    "id": "1",
+    "title": "Introduction to JavaScript",
+    "content": "JavaScript is a versatile programming language used for web development.",
+    "author": "John Doe",
+    "timestamp": "2023-11-28T12:34:56.789Z"
+  },
+  {
+    "id": "2",
+    "title": "Machine Learning Basics",
+    "content": "An overview of machine learning concepts and algorithms.",
+    "author": "Jane Smith",
+    "timestamp": "2023-11-28T13:45:28.501Z"
+  },
+  
+  {
+    "id": "3",
+    "title": "Healthy Eating Habits",
+    "content": "Tips and tricks for maintaining a healthy diet and lifestyle.",
+    "author": "Alice Johnson",
+    "timestamp": "2023-11-28T14:56:31.234Z"
+  },
+  {
+    "id": "4",
+    "title": "Exploring National Parks",
+    "content": "A travelogue describing the beauty of various national parks.",
+    "author": "Bob Anderson",
+    "timestamp": "2023-11-28T15:59:43.210Z"
+  },
+
+  {
+    "id": "5",
+    "title": "Getting Started with React",
+    "content": "A beginner's guide to building web applications with React.js.",
+    "author": "Emily Wilson",
+    "timestamp": "2023-11-28T16:21:57.890Z"
+  },
+
+  {
+    "id": "6",
+    "title": "Intermediate React Concepts",
+    "content": "Exploring state management, component lifecycle, and advanced React features.",
+    "author": "Alex Turner",
+    "timestamp": "2023-11-29T10:45:21.123Z"
+  },
+
+  {
+    "id": "7",
+    "title": "Mastering React Hooks",
+    "content": "A comprehensive guide to understanding and using React Hooks for functional components.",
+    "author": "Jessica Lee",
+    "timestamp": "2023-11-30T14:02:45.678Z"
+  }]
